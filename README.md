@@ -1,1 +1,1 @@
-# tea-dao-nym
+# tea-dao-nym-stake
